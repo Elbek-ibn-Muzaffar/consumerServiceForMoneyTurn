@@ -4,9 +4,11 @@ spring:
   application:
     name: Consumer-app
   datasource:
-    url:  jdbc:postgresql://localhost:5432/consumer
-    username: juniper
-    password: 112233
+    url:  jdbc:postgresql://ec2-18-214-238-28.compute-1.amazonaws.com:5432/d5r6njfc2ebg97
+    username:
+  imtsmvppttiytq
+    password:
+  56a4a1b67ca21eef335958edce8cff2ef8612d56193f50247a376ac9b9309319
 
 
   jpa:
