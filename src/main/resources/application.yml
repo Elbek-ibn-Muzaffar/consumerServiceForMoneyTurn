@@ -21,4 +21,4 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: https://eureka-server-for-money-turn.herokuapp.com
+      defaultZone: https://eureka-server-for-money-turn.herokuapp.com/eureka
