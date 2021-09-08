@@ -20,3 +20,11 @@ eureka:
   client:
     service-url:
       defaultZone: https://eureka-server-for-money-turn.herokuapp.com/eureka
+
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 160000000
+
+        readTimeout: 160000000
