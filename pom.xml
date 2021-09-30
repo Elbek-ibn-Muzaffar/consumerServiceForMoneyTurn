@@ -35,6 +35,14 @@
             <artifactId>spring-cloud-starter-openfeign</artifactId>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-loadbalancer -->
+        <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-loadbalancer -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-loadbalancer</artifactId>
+        </dependency>
+
+
         <!-- https://mvnrepository.com/artifact/com.netflix.hystrix/hystrix-dashboard -->
 <!--        <dependency>-->
 <!--            <groupId>com.netflix.hystrix</groupId>-->
