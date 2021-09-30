@@ -44,11 +44,10 @@
 
 
         <!-- https://mvnrepository.com/artifact/com.netflix.hystrix/hystrix-dashboard -->
-<!--        <dependency>-->
-<!--            <groupId>com.netflix.hystrix</groupId>-->
-<!--            <artifactId>hystrix-dashboard</artifactId>-->
-<!--            <version>1.5.18</version>-->
-<!--        </dependency>-->
+        <dependency>
+            <groupId>com.netflix.hystrix</groupId>
+            <artifactId>hystrix-dashboard</artifactId>
+        </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-starter-netflix-hystrix -->
 
